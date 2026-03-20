@@ -246,11 +246,16 @@ identity:
 
 [![Email](https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithybeun@gmail.com)
 &nbsp;
-[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rithybeun)
+[![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BeunRithy)
+
 &nbsp;
+
+
 [![Blog](https://img.shields.io/badge/Blog-Write--ups-c084fc?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.rithybeun.com)
 
 </div>
+
+
 
 <br/>
 

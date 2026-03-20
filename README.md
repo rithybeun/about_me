@@ -250,7 +250,6 @@ identity:
 
 &nbsp;
 
-
 [![Blog](https://img.shields.io/badge/Blog-Write--ups-c084fc?style=for-the-badge&logo=hashnode&logoColor=white)](https://blog.rithybeun.com)
 
 </div>

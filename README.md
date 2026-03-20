@@ -259,7 +259,5 @@ identity:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0535,100:0a0014&height=120&section=footer&text=Break%20%C2%B7%20Assess%20%C2%B7%20Secure%20%C2%B7%20Ship&fontSize=14&fontColor=6b4f8a&fontAlignY=65"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer"/>
-
 
 </div>

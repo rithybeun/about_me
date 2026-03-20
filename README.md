@@ -239,10 +239,11 @@ identity:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithy_Beun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rithybeun)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rithy_Beun-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rithy-beun-125643151)
 &nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-@rithybeun-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rithybeun)
 &nbsp;
+
 [![Email](https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rithybeun@gmail.com)
 &nbsp;
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rithybeun)

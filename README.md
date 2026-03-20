@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ANIMATED HERO BANNER — custom SVG identity card concept -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0535,100:0a0014&height=240&section=header&text=Rithy%20Beun&fontSize=52&fontColor=e8d5ff&fontAlignY=42&desc=Red%20Team%20%E2%80%A2%20VAPT%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20DevSecOps&descAlignY=62&descSize=16&descColor=9b6fc7&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0014,50:1a0535,100:0a0014&height=240&section=header&text=About%20Me&fontSize=52&fontColor=e8d5ff&fontAlignY=42&desc=Red%20Team%20%E2%80%A2%20VAPT%20%E2%80%A2%20Mobile%20Dev%20%E2%80%A2%20DevSecOps&descAlignY=62&descSize=16&descColor=9b6fc7&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=16&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=%5B+01+%5D+Red+Team+Operator+%E2%80%94+Adversary+Simulation;%5B+02+%5D+VAPT+Specialist+%E2%80%94+Web+%2F+Mobile+%2F+Network;%5B+03+%5D+Mobile+Developer+%E2%80%94+Android+%2F+iOS+%2F+Flutter;%5B+04+%5D+DevSecOps+Engineer+%E2%80%94+Shift+Left+Security;%5B+05+%5D+Bug+Bounty+Hunter+%F0%9F%87%B0%F0%9F%87%AD+From+Cambodia" alt="Typing SVG"/>
